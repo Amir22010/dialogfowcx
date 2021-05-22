@@ -27,7 +27,7 @@ I have also followed https://chatbotsjournal.com/how-to-integrate-dialogflow-cx-
 ## Dialogflow CX Console Bot Test
 
 
-![Alt Text](https://github.com/Amir22010/dialogfowcx/blob/main/testing_working_bot.gif)
+![CX Bot](https://github.com/Amir22010/dialogfowcx/blob/main/images/testing_working_bot.gif)
 
 
 ## Python Code Bot integration Test
@@ -39,10 +39,10 @@ python detect_intent_text.py --session-id '07cc785c-d514-425f-9b43-451715c8ea7d'
 
 '''
 
-![Alt Text](https://github.com/Amir22010/dialogfowcx/blob/main/testing_working_bot.gif)
+![Python Command Line](https://github.com/Amir22010/dialogfowcx/blob/main/images/python%20command%20line%20test.JPG)
 
 
 ## Website Bot integration Test
 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Website Bot](https://github.com/Amir22010/dialogfowcx/blob/main/images/website_bot_integration.gif)
